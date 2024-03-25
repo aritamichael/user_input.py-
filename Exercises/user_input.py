@@ -4,10 +4,10 @@
 name = input("What is your name?: ")
 
 # Ask the user for their age and store it in the variable "age"
-age = input("How old are you?: ")
+dob = input("How old are you?: ")
 
 # Ask the user for their location and store it in the variable "location"
 location = input("Where do you live?: ")
 
 # Print out a personalized message using the user's name, age, and location
-print(f"I am {name} of {age} years old and live in {location}.")
+print(f"I am {name} of {dob} years old and live in {location}.")
